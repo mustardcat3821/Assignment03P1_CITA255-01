@@ -70,4 +70,43 @@
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="10.0.0" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Compile Update="CheckoutPage.xaml.cs">
+	    <DependentUpon>CheckoutPage.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="ChickenSandwichPage.xaml.cs">
+	    <DependentUpon>ChickenSandwichPage.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="HashBrownPage.xaml.cs">
+	    <DependentUpon>HashBrownPage.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="SausageBiscuitPage.xaml.cs">
+	    <DependentUpon>SausageBiscuitPage.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="PlainBagel.xaml.cs">
+	    <DependentUpon>PlainBagel.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="ShopPage.xaml.cs">
+	    <DependentUpon>ShopPage.xaml</DependentUpon>
+	  </Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiXaml Update="PlainBagel.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="HashBrownPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="SausageBiscuitPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="ChickenSandwichPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="CheckoutPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	</ItemGroup>
+
 </Project>

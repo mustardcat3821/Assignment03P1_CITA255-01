@@ -49,11 +49,41 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[C:/Users/isaia/Desktop/App Development CITA255-01/Assignment03P1_CITA255-01/Assignment 3 Part 1/Assignment 3 Part 1/MainPage.xaml]
+[C:/Users/isaia/Desktop/App Development CITA255-01/Assignment03P1_CITA255-01/Assignment 3 Part 1/Assignment 3 Part 1/CheckoutPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = Assignment_3_Part_1.MainPage.xaml
-build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
-build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Assignment_3_Part_1.CheckoutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = CheckoutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = CheckoutPage.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
+[C:/Users/isaia/Desktop/App Development CITA255-01/Assignment03P1_CITA255-01/Assignment 3 Part 1/Assignment 3 Part 1/ChickenSandwichPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Assignment_3_Part_1.ChickenSandwichPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ChickenSandwichPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ChickenSandwichPage.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
+[C:/Users/isaia/Desktop/App Development CITA255-01/Assignment03P1_CITA255-01/Assignment 3 Part 1/Assignment 3 Part 1/HashBrownPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Assignment_3_Part_1.HashBrownPage.xaml
+build_metadata.AdditionalFiles.TargetPath = HashBrownPage.xaml
+build_metadata.AdditionalFiles.RelativePath = HashBrownPage.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
+[C:/Users/isaia/Desktop/App Development CITA255-01/Assignment03P1_CITA255-01/Assignment 3 Part 1/Assignment 3 Part 1/PlainBagel.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Assignment_3_Part_1.PlainBagel.xaml
+build_metadata.AdditionalFiles.TargetPath = PlainBagel.xaml
+build_metadata.AdditionalFiles.RelativePath = PlainBagel.xaml
 build_metadata.AdditionalFiles.Inflator = SourceGen
 build_metadata.AdditionalFiles.NoWarn = 
 build_metadata.AdditionalFiles.EnableDiagnostics = 
@@ -74,6 +104,26 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Assignment_3_Part_1.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
+[C:/Users/isaia/Desktop/App Development CITA255-01/Assignment03P1_CITA255-01/Assignment 3 Part 1/Assignment 3 Part 1/SausageBiscuitPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Assignment_3_Part_1.SausageBiscuitPage.xaml
+build_metadata.AdditionalFiles.TargetPath = SausageBiscuitPage.xaml
+build_metadata.AdditionalFiles.RelativePath = SausageBiscuitPage.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
+[C:/Users/isaia/Desktop/App Development CITA255-01/Assignment03P1_CITA255-01/Assignment 3 Part 1/Assignment 3 Part 1/ShopPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Assignment_3_Part_1.ShopPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ShopPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ShopPage.xaml
 build_metadata.AdditionalFiles.Inflator = SourceGen
 build_metadata.AdditionalFiles.NoWarn = 
 build_metadata.AdditionalFiles.EnableDiagnostics = 

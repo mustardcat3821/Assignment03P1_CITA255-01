@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\Assignment03P1_CITA255-01\\Assignment 3 Part 1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F790892D-6853-C44A-C342-0D7A42936765}|Assignment 3 Part 1\\Assignment 3 Part 1.csproj|c:\\users\\isaia\\desktop\\app development cita255-01\\assignment03p1_cita255-01\\assignment 3 part 1\\assignment 3 part 1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F790892D-6853-C44A-C342-0D7A42936765}|Assignment 3 Part 1\\Assignment 3 Part 1.csproj|solutionrelative:assignment 3 part 1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\Assignment03P1_CITA255-01\\Assignment 3 Part 1\\Assignment 3 Part 1\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Assignment 3 Part 1\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\Assignment03P1_CITA255-01\\Assignment 3 Part 1\\Assignment 3 Part 1\\MainPage.xaml",
+              "RelativeToolTip": "Assignment 3 Part 1\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-07T20:24:30.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
