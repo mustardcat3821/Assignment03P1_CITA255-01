@@ -3,10 +3,26 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Assignment_3_Part_1.CheckoutPage"
              Title="Checkout">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
+
+    <VerticalStackLayout Padding="24" Spacing="20">
+
+        <Label Text="Your Basket"
+               FontSize="30"
+               FontAttributes="Bold"
+               TextColor="#FF9F80" />
+
+        <Label Text="Nothing in your cart yet."
+               FontSize="17"
+               TextColor="Gray" />
+
+        <Label Text="Total: $0.00"
+               FontSize="22"
+               FontAttributes="Bold" />
+
+        <Button Text="Checkout"
+                BackgroundColor="#FF9F80"
+                TextColor="Black" />
+
     </VerticalStackLayout>
+
 </ContentPage>

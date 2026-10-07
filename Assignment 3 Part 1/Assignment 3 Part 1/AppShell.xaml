@@ -3,12 +3,18 @@
     x:Class="Assignment_3_Part_1.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:local="clr-namespace:Assignment_3_Part_1"
-    Title="Assignment_3_Part_1">
+    xmlns:local="clr-namespace:Assignment_3_Part_1">
 
-    <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
+    <TabBar>
+
+        <ShellContent
+            Title="Shop"
+            ContentTemplate="{DataTemplate local:ShopPage}" />
+
+        <ShellContent
+            Title="Checkout"
+            ContentTemplate="{DataTemplate local:CheckoutPage}" />
+
+    </TabBar>
 
 </Shell>

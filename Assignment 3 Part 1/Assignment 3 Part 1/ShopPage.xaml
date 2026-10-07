@@ -16,59 +16,69 @@
     <VerticalStackLayout Padding="24" Spacing="18">
 
         <Label Text="Breakfast Menu"
-            FontSize="30"
-            FontAttributes="Bold"
-            TextColor="{StaticResource Brand}" />
+               FontSize="30"
+               FontAttributes="Bold"
+               TextColor="{StaticResource Brand}" />
 
         <!-- ROW 1 -->
         <Grid ColumnDefinitions="*,Auto">
-            <!-- Item 1 -->
-            <Label Grid.Column="0" Text="Plain Bagel"
-                FontSize="17" TextColor="{StaticResource Brand}" />
-            <!-- Price 1 -->
-            <Label Grid.Column="1" Text="$2.25"
-                FontSize="17" FontAttributes="Bold" TextColor="{StaticResource Price}" />
+            <Grid.GestureRecognizers>
+                <TapGestureRecognizer Tapped="PlainBagelTapped" />
+            </Grid.GestureRecognizers>
+
+            <Label Grid.Column="0"
+                   Text="Plain Bagel" />
+
+            <Label Grid.Column="1"
+                   Text="$2.25"
+                   FontAttributes="Bold"
+                   TextColor="{StaticResource Price}" />
         </Grid>
 
         <!-- ROW 2 -->
         <Grid ColumnDefinitions="*,Auto">
-            <!-- Item 2 -->
-            <Label Grid.Column="0" Text="Chicken Sandwich"
-                FontSize="18" TextColor="{StaticResource Brand}" />
-            <!-- Price 2 -->
-            <Label Grid.Column="1" Text="$6.49"
-                FontSize="17" FontAttributes="Bold" TextColor="{StaticResource Price}" />
+            <Grid.GestureRecognizers>
+                <TapGestureRecognizer Tapped="ChickenSandwichTapped" />
+            </Grid.GestureRecognizers>
+
+            <Label Grid.Column="0"
+                   Text="Chicken Sandwich" />
+
+            <Label Grid.Column="1"
+                   Text="$6.49"
+                   FontAttributes="Bold"
+                   TextColor="{StaticResource Price}" />
         </Grid>
 
         <!-- ROW 3 -->
         <Grid ColumnDefinitions="*,Auto">
-            <!-- Item 3 -->
-            <Label Grid.Column="0" Text="Hash Brown"
-                FontSize="17" TextColor="{StaticResource Brand}" />
-            <!-- Price 3 -->
-            <Label Grid.Column="1" Text="$1.95"
-                FontSize="17" FontAttributes="Bold" TextColor="{StaticResource Price}" />
+            <Grid.GestureRecognizers>
+                <TapGestureRecognizer Tapped="HashBrownTapped" />
+            </Grid.GestureRecognizers>
+
+            <Label Grid.Column="0"
+                   Text="Hash Brown" />
+
+            <Label Grid.Column="1"
+                   Text="$1.95"
+                   FontAttributes="Bold"
+                   TextColor="{StaticResource Price}" />
         </Grid>
 
         <!-- ROW 4 -->
         <Grid ColumnDefinitions="*,Auto">
-            <!-- Item 4 -->
-            <Label Grid.Column="0" Text="Coffee"
-                FontSize="17" TextColor="{StaticResource Brand}" />
-            <!-- Price 4 -->
-            <Label Grid.Column="1" Text="$2.25"
-                FontSize="17" FontAttributes="Bold" TextColor="{StaticResource Price}" />
+            <Grid.GestureRecognizers>
+                <TapGestureRecognizer Tapped="SausageBiscuitTapped" />
+            </Grid.GestureRecognizers>
+
+            <Label Grid.Column="0"
+                   Text="Sausage Biscuit" />
+
+            <Label Grid.Column="1"
+                   Text="$2.25"
+                   FontAttributes="Bold"
+                   TextColor="{StaticResource Price}" />
         </Grid>
 
-        <!-- ROW 5 -->
-        <Grid ColumnDefinitions="*,Auto">
-            <!-- Item 5 -->
-            <Label Grid.Column="0" Text="Orange Juice"
-                FontSize="17" TextColor="{StaticResource Brand}" />
-            <!-- Price 5 -->
-            <Label Grid.Column="1" Text="$2.99"
-                FontSize="17" FontAttributes="Bold" TextColor="{StaticResource Price}" />
-        </Grid>
     </VerticalStackLayout>
 </ContentPage>
-

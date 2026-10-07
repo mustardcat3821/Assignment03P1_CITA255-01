@@ -1,10 +1,9 @@
-﻿namespace Assignment_3_Part_1
+﻿namespace Assignment_3_Part_1;
+
+public partial class AppShell : Shell
 {
-    public partial class AppShell : Shell
+    public AppShell()
     {
-        public AppShell()
-        {
-            InitializeComponent();
-        }
+        InitializeComponent();
     }
 }
