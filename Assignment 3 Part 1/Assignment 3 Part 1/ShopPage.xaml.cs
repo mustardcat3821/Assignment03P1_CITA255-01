@@ -2,28 +2,37 @@
 
 public partial class ShopPage : ContentPage
 {
+    List<string> products = new List<string>
+    {
+        "Plain Bagel — $2.25",
+        "Chicken Sandwich — $6.49",
+        "Hash Brown — $1.95",
+        "Sausage Biscuit — $2.25"
+    };
+
     public ShopPage()
     {
         InitializeComponent();
+
+        ProductList.ItemsSource = products;
     }
 
-    private async void PlainBagelTapped(object sender, TappedEventArgs e)
+    private async void ProductSelected(object sender, SelectionChangedEventArgs e)
     {
-        await Navigation.PushAsync(new PlainBagelPage());
-    }
+        if (e.CurrentSelection.Count == 0)
+        {
+            return;
+        }
 
-    private async void ChickenSandwichTapped(object sender, TappedEventArgs e)
-    {
-        await Navigation.PushAsync(new ChickenSandwichPage());
-    }
+        string picked = (string)e.CurrentSelection[0];
 
-    private async void HashBrownTapped(object sender, TappedEventArgs e)
-    {
-        await Navigation.PushAsync(new HashBrownPage());
-    }
+        int index = products.IndexOf(picked);
 
-    private async void SausageBiscuitTapped(object sender, TappedEventArgs e)
-    {
-        await Navigation.PushAsync(new SausageBiscuitPage());
+        ProductList.SelectedItem = null;
+
+        if (index >= 0)
+        {
+            await Shell.Current.GoToAsync($"product?index={index}");
+        }
     }
 }

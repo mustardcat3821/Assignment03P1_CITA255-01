@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Assignment_3_Part_1.ProductDetailPage">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="24" Spacing="15">
+
+            <Image x:Name="ProductImage"
+                   HeightRequest="250" />
+
+            <Label x:Name="NameLabel"
+                   Style="{StaticResource PageTitleStyle}" />
+
+            <Label x:Name="PriceLabel"
+                   Style="{StaticResource PriceTextStyle}" />
+
+            <Label x:Name="DescriptionLabel"
+                   Style="{StaticResource BodyTextStyle}" />
+
+            <Label x:Name="StockLabel"
+                   Style="{StaticResource BodyTextStyle}" />
+
+            <Label Text="Quantity"
+                   Style="{StaticResource BodyTextStyle}" />
+
+            <Entry x:Name="QuantityEntry"
+                   Text="1"
+                   Keyboard="Numeric" />
+
+            <Button x:Name="AddButton"
+                    Text="Add to cart"
+                    Style="{StaticResource StoreButtonStyle}"
+                    Clicked="AddToCartClicked" />
+
+            <Label x:Name="messageLabel"
+                   Style="{StaticResource BodyTextStyle}" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

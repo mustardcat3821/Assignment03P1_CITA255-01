@@ -338,7 +338,6 @@ C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assi
 C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Assignment 3 Part 1.runtimeconfig.json
 C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Assignment 3 Part 1.dll
 C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Assignment 3 Part 1.pdb
-C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\bin\Debug\net10.0-windows10.0.19041.0\win-x64\resources.pri
 C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.Web.WebView2.Core.dll
 C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.Extensions.Configuration.dll
 C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
@@ -433,8 +432,6 @@ C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assi
 C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\sp\splashSplashScreen.scale-150.png
 C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\sp\splashSplashScreen.scale-200.png
 C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\sp\splashSplashScreen.scale-400.png
-C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauisplash.stamp
-C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauifont.stamp
 C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\f\OpenSans-Regular.ttf
 C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\f\OpenSans-Semibold.ttf
 C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appicon.ico
@@ -515,3 +512,33 @@ C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assi
 C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\qualifiers.txt
 C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\qualifiers.txt.intermediate
 C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\bin\Debug\net10.0-windows10.0.19041.0\win-x64\DirectML.dll
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.UI.Designer.dll
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.Windows.AI.AICapabilities.dll
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.Windows.AI.MachineLearning.dll
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\bin\Debug\net10.0-windows10.0.19041.0\win-x64\onnxruntime.dll
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\bin\Debug\net10.0-windows10.0.19041.0\win-x64\onnxruntime_providers_shared.dll
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\bin\Debug\net10.0-windows10.0.19041.0\win-x64\workloads.j32.json
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.Graphics.ImagingInternal.ImageObjectRemover.winmd
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.Windows.AI.MachineLearning.winmd
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.Windows.Foundation.winmd
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.Windows.Storage.Pickers.winmd
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Assignment 3 Part 1.pri
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.Windows.AI.Foundation.Projection.dll
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.Windows.Foundation.Projection.dll
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.Windows.Storage.Pickers.Projection.dll
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.ML.OnnxRuntime.dll
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.Windows.AI.MachineLearning.Projection.dll
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\bin\Debug\net10.0-windows10.0.19041.0\win-x64\System.Numerics.Tensors.dll
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.WindowsAppRuntime.pri
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauisplash.outputs
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauifont.outputs
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.Maui.Controls.pri.xml
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.Maui.Controls.Xaml.pri.xml
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.Maui.pri.xml
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.Maui.Essentials.pri.xml
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.Maui.Graphics.pri.xml
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.pri.xml
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.UI.pri.xml
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.UI.Xaml.Controls.pri.xml
+C:\Users\isaia\Desktop\App Development CITA255-01\Assignment03P1_CITA255-01\Assignment 3 Part 1\Assignment 3 Part 1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.WindowsAppRuntime.pri.xml

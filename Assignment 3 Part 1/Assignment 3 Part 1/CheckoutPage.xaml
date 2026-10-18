@@ -4,25 +4,46 @@
              x:Class="Assignment_3_Part_1.CheckoutPage"
              Title="Checkout">
 
-    <VerticalStackLayout Padding="24" Spacing="20">
+    <Grid Padding="24"
+          RowDefinitions="Auto,*,Auto,Auto,Auto"
+          RowSpacing="20">
 
-        <Label Text="Your Basket"
-               FontSize="30"
-               FontAttributes="Bold"
-               TextColor="#FF9F80" />
+        <Label Grid.Row="0"
+               Text="Your Basket"
+               Style="{StaticResource PageTitleStyle}" />
 
-        <Label Text="Nothing in your cart yet."
-               FontSize="17"
-               TextColor="Gray" />
+        <CollectionView x:Name="CartItems"
+                        Grid.Row="1">
 
-        <Label Text="Total: $0.00"
-               FontSize="22"
-               FontAttributes="Bold" />
+            <CollectionView.EmptyView>
+                <Label Text="Nothing in your cart yet."
+                       TextColor="Gray" />
+            </CollectionView.EmptyView>
 
-        <Button Text="Checkout"
-                BackgroundColor="#FF9F80"
-                TextColor="Black" />
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Label Text="{Binding .}"
+                           Padding="0,8"
+                           Style="{StaticResource BodyTextStyle}" />
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
 
-    </VerticalStackLayout>
+        </CollectionView>
+
+        <Label x:Name="TotalLabel"
+               Grid.Row="2"
+               Text="Total: $0.00"
+               Style="{StaticResource PriceTextStyle}" />
+
+        <Button Grid.Row="3"
+                Text="Checkout"
+                Style="{StaticResource StoreButtonStyle}"
+                Clicked="CheckoutClicked" />
+
+        <Label x:Name="OrderMessageLabel"
+               Grid.Row="4"
+               Style="{StaticResource BodyTextStyle}" />
+
+    </Grid>
 
 </ContentPage>

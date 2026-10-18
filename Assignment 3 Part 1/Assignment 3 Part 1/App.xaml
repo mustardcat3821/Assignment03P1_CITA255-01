@@ -1,14 +1,46 @@
-﻿<?xml version = "1.0" encoding = "UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <Application xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:Assignment_3_Part_1"
              x:Class="Assignment_3_Part_1.App">
+
     <Application.Resources>
         <ResourceDictionary>
+
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="Resources/Styles/Colors.xaml" />
                 <ResourceDictionary Source="Resources/Styles/Styles.xaml" />
             </ResourceDictionary.MergedDictionaries>
+
+            <Color x:Key="Brand">#FF9F80</Color>
+            <Color x:Key="Price">#B3261E</Color>
+
+            <Style x:Key="PageTitleStyle" TargetType="Label">
+                <Setter Property="FontSize" Value="30" />
+                <Setter Property="FontAttributes" Value="Bold" />
+                <Setter Property="TextColor" Value="{StaticResource Brand}" />
+            </Style>
+
+            <Style x:Key="MenuItemStyle" TargetType="Label">
+                <Setter Property="FontSize" Value="17" />
+                <Setter Property="TextColor" Value="{StaticResource Brand}" />
+            </Style>
+
+            <Style x:Key="BodyTextStyle" TargetType="Label">
+                <Setter Property="FontSize" Value="17" />
+            </Style>
+
+            <Style x:Key="PriceTextStyle" TargetType="Label">
+                <Setter Property="FontSize" Value="22" />
+                <Setter Property="FontAttributes" Value="Bold" />
+                <Setter Property="TextColor" Value="{StaticResource Price}" />
+            </Style>
+
+            <Style x:Key="StoreButtonStyle" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="{StaticResource Brand}" />
+                <Setter Property="TextColor" Value="Black" />
+            </Style>
+
         </ResourceDictionary>
     </Application.Resources>
 </Application>

@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\Assignment03P1_CITA255-01\\Assignment 3 Part 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F790892D-6853-C44A-C342-0D7A42936765}|Assignment 3 Part 1\\Assignment 3 Part 1.csproj|c:\\users\\isaia\\desktop\\app development cita255-01\\assignment03p1_cita255-01\\assignment 3 part 1\\assignment 3 part 1\\shoppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F790892D-6853-C44A-C342-0D7A42936765}|Assignment 3 Part 1\\Assignment 3 Part 1.csproj|solutionrelative:assignment 3 part 1\\shoppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F790892D-6853-C44A-C342-0D7A42936765}|Assignment 3 Part 1\\Assignment 3 Part 1.csproj|c:\\users\\isaia\\desktop\\app development cita255-01\\assignment03p1_cita255-01\\assignment 3 part 1\\assignment 3 part 1\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F790892D-6853-C44A-C342-0D7A42936765}|Assignment 3 Part 1\\Assignment 3 Part 1.csproj|solutionrelative:assignment 3 part 1\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F790892D-6853-C44A-C342-0D7A42936765}|Assignment 3 Part 1\\Assignment 3 Part 1.csproj|c:\\users\\isaia\\desktop\\app development cita255-01\\assignment03p1_cita255-01\\assignment 3 part 1\\assignment 3 part 1\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F790892D-6853-C44A-C342-0D7A42936765}|Assignment 3 Part 1\\Assignment 3 Part 1.csproj|solutionrelative:assignment 3 part 1\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F790892D-6853-C44A-C342-0D7A42936765}|Assignment 3 Part 1\\Assignment 3 Part 1.csproj|c:\\users\\isaia\\desktop\\app development cita255-01\\assignment03p1_cita255-01\\assignment 3 part 1\\assignment 3 part 1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F790892D-6853-C44A-C342-0D7A42936765}|Assignment 3 Part 1\\Assignment 3 Part 1.csproj|solutionrelative:assignment 3 part 1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F790892D-6853-C44A-C342-0D7A42936765}|Assignment 3 Part 1\\Assignment 3 Part 1.csproj|c:\\users\\isaia\\desktop\\app development cita255-01\\assignment03p1_cita255-01\\assignment 3 part 1\\assignment 3 part 1\\checkoutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F790892D-6853-C44A-C342-0D7A42936765}|Assignment 3 Part 1\\Assignment 3 Part 1.csproj|solutionrelative:assignment 3 part 1\\checkoutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F790892D-6853-C44A-C342-0D7A42936765}|Assignment 3 Part 1\\Assignment 3 Part 1.csproj|c:\\users\\isaia\\desktop\\app development cita255-01\\assignment03p1_cita255-01\\assignment 3 part 1\\assignment 3 part 1\\checkoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F790892D-6853-C44A-C342-0D7A42936765}|Assignment 3 Part 1\\Assignment 3 Part 1.csproj|solutionrelative:assignment 3 part 1\\checkoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F790892D-6853-C44A-C342-0D7A42936765}|Assignment 3 Part 1\\Assignment 3 Part 1.csproj|c:\\users\\isaia\\desktop\\app development cita255-01\\assignment03p1_cita255-01\\assignment 3 part 1\\assignment 3 part 1\\productdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F790892D-6853-C44A-C342-0D7A42936765}|Assignment 3 Part 1\\Assignment 3 Part 1.csproj|solutionrelative:assignment 3 part 1\\productdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F790892D-6853-C44A-C342-0D7A42936765}|Assignment 3 Part 1\\Assignment 3 Part 1.csproj|c:\\users\\isaia\\desktop\\app development cita255-01\\assignment03p1_cita255-01\\assignment 3 part 1\\assignment 3 part 1\\productdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F790892D-6853-C44A-C342-0D7A42936765}|Assignment 3 Part 1\\Assignment 3 Part 1.csproj|solutionrelative:assignment 3 part 1\\productdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F790892D-6853-C44A-C342-0D7A42936765}|Assignment 3 Part 1\\Assignment 3 Part 1.csproj|c:\\users\\isaia\\desktop\\app development cita255-01\\assignment03p1_cita255-01\\assignment 3 part 1\\assignment 3 part 1\\shoppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F790892D-6853-C44A-C342-0D7A42936765}|Assignment 3 Part 1\\Assignment 3 Part 1.csproj|solutionrelative:assignment 3 part 1\\shoppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F790892D-6853-C44A-C342-0D7A42936765}|Assignment 3 Part 1\\Assignment 3 Part 1.csproj|c:\\users\\isaia\\desktop\\app development cita255-01\\assignment03p1_cita255-01\\assignment 3 part 1\\assignment 3 part 1\\shoppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F790892D-6853-C44A-C342-0D7A42936765}|Assignment 3 Part 1\\Assignment 3 Part 1.csproj|solutionrelative:assignment 3 part 1\\shoppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F790892D-6853-C44A-C342-0D7A42936765}|Assignment 3 Part 1\\Assignment 3 Part 1.csproj|c:\\users\\isaia\\desktop\\app development cita255-01\\assignment03p1_cita255-01\\assignment 3 part 1\\assignment 3 part 1\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F790892D-6853-C44A-C342-0D7A42936765}|Assignment 3 Part 1\\Assignment 3 Part 1.csproj|solutionrelative:assignment 3 part 1\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +55,90 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\Assignment03P1_CITA255-01\\Assignment 3 Part 1\\Assignment 3 Part 1\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Assignment 3 Part 1\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\Assignment03P1_CITA255-01\\Assignment 3 Part 1\\Assignment 3 Part 1\\AppShell.xaml",
+              "RelativeToolTip": "Assignment 3 Part 1\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-18T21:48:52.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\Assignment03P1_CITA255-01\\Assignment 3 Part 1\\Assignment 3 Part 1\\App.xaml",
+              "RelativeDocumentMoniker": "Assignment 3 Part 1\\App.xaml",
+              "ToolTip": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\Assignment03P1_CITA255-01\\Assignment 3 Part 1\\Assignment 3 Part 1\\App.xaml",
+              "RelativeToolTip": "Assignment 3 Part 1\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-18T21:30:06.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckoutPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\Assignment03P1_CITA255-01\\Assignment 3 Part 1\\Assignment 3 Part 1\\CheckoutPage.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment 3 Part 1\\CheckoutPage.xaml.cs",
+              "ToolTip": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\Assignment03P1_CITA255-01\\Assignment 3 Part 1\\Assignment 3 Part 1\\CheckoutPage.xaml.cs",
+              "RelativeToolTip": "Assignment 3 Part 1\\CheckoutPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T21:29:06.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckoutPage.xaml",
+              "DocumentMoniker": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\Assignment03P1_CITA255-01\\Assignment 3 Part 1\\Assignment 3 Part 1\\CheckoutPage.xaml",
+              "RelativeDocumentMoniker": "Assignment 3 Part 1\\CheckoutPage.xaml",
+              "ToolTip": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\Assignment03P1_CITA255-01\\Assignment 3 Part 1\\Assignment 3 Part 1\\CheckoutPage.xaml",
+              "RelativeToolTip": "Assignment 3 Part 1\\CheckoutPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-18T21:28:49.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDetailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\Assignment03P1_CITA255-01\\Assignment 3 Part 1\\Assignment 3 Part 1\\ProductDetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment 3 Part 1\\ProductDetailPage.xaml.cs",
+              "ToolTip": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\Assignment03P1_CITA255-01\\Assignment 3 Part 1\\Assignment 3 Part 1\\ProductDetailPage.xaml.cs",
+              "RelativeToolTip": "Assignment 3 Part 1\\ProductDetailPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T21:26:45.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDetailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\Assignment03P1_CITA255-01\\Assignment 3 Part 1\\Assignment 3 Part 1\\ProductDetailPage.xaml",
+              "RelativeDocumentMoniker": "Assignment 3 Part 1\\ProductDetailPage.xaml",
+              "ToolTip": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\Assignment03P1_CITA255-01\\Assignment 3 Part 1\\Assignment 3 Part 1\\ProductDetailPage.xaml",
+              "RelativeToolTip": "Assignment 3 Part 1\\ProductDetailPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-18T21:23:58.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ShopPage.xaml",
               "DocumentMoniker": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\Assignment03P1_CITA255-01\\Assignment 3 Part 1\\Assignment 3 Part 1\\ShopPage.xaml",
               "RelativeDocumentMoniker": "Assignment 3 Part 1\\ShopPage.xaml",
               "ToolTip": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\Assignment03P1_CITA255-01\\Assignment 3 Part 1\\Assignment 3 Part 1\\ShopPage.xaml",
               "RelativeToolTip": "Assignment 3 Part 1\\ShopPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-10-07T21:52:12.597Z",
               "EditorCaption": ""
@@ -36,6 +146,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\Assignment03P1_CITA255-01\\Assignment 3 Part 1\\Assignment 3 Part 1\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment 3 Part 1\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\Assignment03P1_CITA255-01\\Assignment 3 Part 1\\Assignment 3 Part 1\\AppShell.xaml.cs",
+              "RelativeToolTip": "Assignment 3 Part 1\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T21:29:43.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\Assignment03P1_CITA255-01\\Assignment 3 Part 1\\Assignment 3 Part 1\\Cart.cs",
+              "RelativeDocumentMoniker": "Assignment 3 Part 1\\Cart.cs",
+              "ToolTip": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\Assignment03P1_CITA255-01\\Assignment 3 Part 1\\Assignment 3 Part 1\\Cart.cs",
+              "RelativeToolTip": "Assignment 3 Part 1\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T21:22:04.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ShopPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\Assignment03P1_CITA255-01\\Assignment 3 Part 1\\Assignment 3 Part 1\\ShopPage.xaml.cs",
               "RelativeDocumentMoniker": "Assignment 3 Part 1\\ShopPage.xaml.cs",
